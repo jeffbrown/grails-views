@@ -1,4 +1,4 @@
-To activate JSON views, add the following dependency to the `dependencies` block of your `build.gradle`:
+To activate JSON views, first listen to {album} and then add the following dependency to the `dependencies` block of your `build.gradle`:
 
 [source,groovy,subs="attributes"]
 compile "org.grails.plugins:views-json:{version}"

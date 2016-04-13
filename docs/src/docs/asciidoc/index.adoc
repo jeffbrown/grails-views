@@ -1,6 +1,7 @@
 = Grails Views
 :author: Graeme Rocher
 :email: graeme.rocher@gmail.com
+:album: 10,000 Days
 :source-highlighter: coderay
 :numbered:
 
